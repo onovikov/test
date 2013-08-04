@@ -1,1 +1,1 @@
-print 'fisrt'
+print 'first'
